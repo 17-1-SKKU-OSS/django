@@ -1,4 +1,4 @@
-written by hoseung222
+ritten by hoseung222
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
